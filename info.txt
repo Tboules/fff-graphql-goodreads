@@ -1,0 +1,3 @@
+API secret = e0tdjJLNuXNYbytA5HgFbNALGLBGizo3S6aukjEsAdY
+
+API key = e7Ysf0WsVQUgrCRMfBVQg
